@@ -1,0 +1,102 @@
+
+-------------------------Test---------------------------
+abs_y, initialisation: -0.750000
+abs_y, Angle max: 48.400000
+abs_y, Angle min: -12.260000
+abs_y, retour à l'état initial: -1.270000
+abs_x, initialisation: -0.750000
+abs_x, Angle max: 44.090000
+abs_x, Angle min: -44.620000
+abs_x, retour à l'état initial: -0.750000
+abs_z, initialisation: -0.400000
+abs_z, Angle max: 90.330000
+abs_z, Angle min: -89.710000
+abs_z, retour à l'état initial: -0.400000
+bust_y, initialisation: 7.430000
+bust_y, Angle max: 65.270000
+bust_y, Angle min: -21.850000
+bust_y, retour à l'état initial: 4.620000
+bust_x, initialisation: 0.310000
+bust_x, Angle max: 36.790000
+bust_x, Angle min: -37.580000
+bust_x, retour à l'état initial: -0.570000
+head_z, initialisation: -0.440000
+head_z, Angle max: 89.300000
+head_z, Angle min: -88.120000
+head_z, retour à l'état initial: -0.440000
+head_y, initialisation: 0.090000
+head_y, Angle max: 25.600000
+head_y, Angle min: -25.130000
+head_y, retour à l'état initial: 0.380000
+l_shoulder_y, initialisation: -1.430000
+l_shoulder_y, Angle max: 62.920000
+l_shoulder_y, Angle min: -178.840000
+l_shoulder_y, retour à l'état initial: -0.730000
+l_shoulder_x, initialisation: 0.730000
+l_shoulder_x, Angle max: 179.100000
+l_shoulder_x, Angle min: -10.530000
+l_shoulder_x, retour à l'état initial: -0.590000
+l_arm_z, initialisation: 0.130000
+l_arm_z, Angle max: 104.840000
+l_arm_z, Angle min: -104.480000
+l_arm_z, retour à l'état initial: -0.310000
+l_elbow_y, initialisation: -0.660000
+l_elbow_y, Angle max: 0.310000
+l_elbow_y, Angle min: -145.100000
+l_elbow_y, retour à l'état initial: -0.400000
+r_shoulder_y, initialisation: -1.160000
+r_shoulder_y, Angle max: 63.540000
+r_shoulder_y, Angle min: -179.630000
+r_shoulder_y, retour à l'état initial: -1.690000
+r_shoulder_x, initialisation: -0.460000
+r_shoulder_x, Angle max: 17.740000
+r_shoulder_x, Angle min: -179.100000
+r_shoulder_x, retour à l'état initial: -1.250000
+r_arm_z, initialisation: 0.310000
+r_arm_z, Angle max: 104.750000
+r_arm_z, Angle min: -104.660000
+r_arm_z, retour à l'état initial: -0.310000
+r_elbow_y, initialisation: 0.480000
+r_elbow_y, Angle max: 0.750000
+r_elbow_y, Angle min: -146.330000
+r_elbow_y, retour à l'état initial: -0.130000
+l_hip_x, initialisation: -2.770000
+l_hip_x, Angle max: 27.030000
+l_hip_x, Angle min: -29.930000
+l_hip_x, retour à l'état initial: -1.800000
+l_hip_z, initialisation: -1.100000
+l_hip_z, Angle max: 21.320000
+l_hip_z, Angle min: -89.360000
+l_hip_z, retour à l'état initial: -0.840000
+l_hip_y, initialisation: 0.950000
+l_hip_y, Angle max: 81.380000
+l_hip_y, Angle min: -104.200000
+l_hip_y, retour à l'état initial: -0.370000
+l_knee_y, initialisation: 0.310000
+l_knee_y, Angle max: 132.620000
+l_knee_y, Angle min: -2.950000
+l_knee_y, retour à l'état initial: 0.310000
+l_ankle_y, initialisation: -0.130000
+l_ankle_y, Angle max: 43.820000
+l_ankle_y, Angle min: -44.350000
+l_ankle_y, retour à l'état initial: -0.310000
+r_hip_x, initialisation: 0.920000
+r_hip_x, Angle max: 30.370000
+r_hip_x, Angle min: -28.000000
+r_hip_x, retour à l'état initial: 0.750000
+r_hip_z, initialisation: 1.010000
+r_hip_z, Angle max: 88.480000
+r_hip_z, Angle min: -23.690000
+r_hip_z, retour à l'état initial: 0.840000
+r_hip_y, initialisation: -0.220000
+r_hip_y, Angle max: 84.530000
+r_hip_y, Angle min: -103.160000
+r_hip_y, retour à l'état initial: -0.310000
+r_knee_y, initialisation: 0.480000
+r_knee_y, Angle max: 132.700000
+r_knee_y, Angle min: -2.590000
+r_knee_y, retour à l'état initial: 0.310000
+r_ankle_y, initialisation: 0.570000
+r_ankle_y, Angle max: 44.620000
+r_ankle_y, Angle min: -44.090000
+r_ankle_y, retour à l'état initial: -0.480000

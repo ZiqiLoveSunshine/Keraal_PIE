@@ -1,0 +1,26 @@
+-------------------------Initialisation---------------------------
+abs_y, initialisation: -1.710000
+abs_x, initialisation: -1.890000
+abs_z, initialisation: 0.400000
+bust_y, initialisation: 15.520000
+bust_x, initialisation: -1.890000
+head_z, initialisation: -0.440000
+head_y, initialisation: -0.210000
+l_shoulder_y, initialisation: -3.360000
+l_shoulder_x, initialisation: 1.870000
+l_arm_z, initialisation: 2.510000
+l_elbow_y, initialisation: 0.310000
+r_shoulder_y, initialisation: -1.960000
+r_shoulder_x, initialisation: -2.130000
+r_arm_z, initialisation: -0.750000
+r_elbow_y, initialisation: 0.750000
+l_hip_x, initialisation: -1.980000
+l_hip_z, initialisation: -5.410000
+l_hip_y, initialisation: -0.110000
+l_knee_y, initialisation: 2.950000
+l_ankle_y, initialisation: 0.040000
+r_hip_x, initialisation: 11.300000
+r_hip_z, initialisation: 8.570000
+r_hip_y, initialisation: 0.310000
+r_knee_y, initialisation: -0.310000
+r_ankle_y, initialisation: 0.920000
